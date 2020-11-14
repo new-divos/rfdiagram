@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/languages">
+        <file alias="rfdiagram_ru.qm">languages/rfdiagram_ru.qm</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="icon.png">images/icon.png</file>
+        <file alias="add.png">images/add.png</file>
+        <file alias="remove.png">images/remove.png</file>
+        <file alias="clear.png">images/clear.png</file>
+        <file alias="polarplot.png">images/polarplot.png</file>
+        <file alias="open.png">images/open.png</file>
+        <file alias="save.png">images/save.png</file>
+        <file alias="saveimage.png">images/saveimage.png</file>
+        <file alias="new.png">images/new.png</file>
+    </qresource>
+</RCC>
